@@ -1,0 +1,8 @@
+C:\Users\Classtime2\Desktop\j\AnyarTemplate\AnyarTemplate\obj\Debug\net6.0\AnyarTemplate.csproj.AssemblyReference.cache
+C:\Users\Classtime2\Desktop\j\AnyarTemplate\AnyarTemplate\obj\Debug\net6.0\AnyarTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Classtime2\Desktop\j\AnyarTemplate\AnyarTemplate\obj\Debug\net6.0\AnyarTemplate.AssemblyInfoInputs.cache
+C:\Users\Classtime2\Desktop\j\AnyarTemplate\AnyarTemplate\obj\Debug\net6.0\AnyarTemplate.AssemblyInfo.cs
+C:\Users\Classtime2\Desktop\j\AnyarTemplate\AnyarTemplate\obj\Debug\net6.0\AnyarTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Classtime2\Desktop\j\AnyarTemplate\AnyarTemplate\obj\Debug\net6.0\AnyarTemplate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Classtime2\Desktop\j\AnyarTemplate\AnyarTemplate\obj\Debug\net6.0\AnyarTemplate.RazorAssemblyInfo.cache
+C:\Users\Classtime2\Desktop\j\AnyarTemplate\AnyarTemplate\obj\Debug\net6.0\AnyarTemplate.RazorAssemblyInfo.cs
